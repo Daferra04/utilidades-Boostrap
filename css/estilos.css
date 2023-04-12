@@ -1,0 +1,14 @@
+.alignH{
+    background-color: rgb(0, 186, 186);
+    margin-top: 20px;
+}
+.alignV{
+    background-color: violet;
+    margin-top: 20px;
+    height: 15rem;
+}
+.columna{
+    text-align: center;
+    padding: 10px;
+    border: 1px solid #4d5061;
+}
